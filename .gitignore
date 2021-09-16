@@ -1,0 +1,6 @@
+*.dev
+*.o
+*.exe
+*.gch
+*.win
+*.layout
